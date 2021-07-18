@@ -1,0 +1,18 @@
+# Dependency directories
+node_modules
+.vscode
+.idea
+*.lock
+# Coverage directory used by tools like istanbul
+coverage
+allure-results
+allure-report
+# Operating system files
+.DS_Store
+
+# Logs
+logs
+reports
+#build
+build.log
+package-lock.json
